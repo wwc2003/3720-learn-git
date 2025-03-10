@@ -6,7 +6,7 @@ Make sure to sign in with github before starting this assignment. If you don’t
 Contributors list
 | Clemson Username | git username | group number |
 | ---------------- | ------------ | ------------ |
-| nkandel          | nkclemson    | None         | 
+| wwcoope          | wwc2003      | 14           | 
 |                  |              |              |
 |                  |              |              |
 
